@@ -40,6 +40,7 @@ public class Task2 {
         }
 
         System.out.println("Quality of higest numbers is " + q);
+        System.out.println("OK");
 
     }
 }
