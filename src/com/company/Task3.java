@@ -23,6 +23,7 @@ public class Task3 {
 
         System.out.println("Input number e ");
         int e = in.nextInt();
+        System.out.println("Yes");
     }
 
 }
