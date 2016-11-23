@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by alexander.mikhailov on 18.11.2016.
  */
-public class Task3 {
+public class Task4 {
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
         System.out.println("Input n :");
