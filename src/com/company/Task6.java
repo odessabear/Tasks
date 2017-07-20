@@ -5,12 +5,14 @@ package com.company;
  */
 public class Task6 {
     public static void main(String[] args){
+        int orig = 42;
+        Task6 x = new Task6();
+        int y = x.go(orig);
+        System.out.println(orig + " " + y);
 
-        for (int i = 1;i <= 99;i++){
-            if (i%2==1){
-                System.out.print( i + " , ");
-            }
-
-        }
+    }
+    int go(int arg){
+        arg = arg *2;
+        return arg;
     }
 }

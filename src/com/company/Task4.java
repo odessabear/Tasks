@@ -11,9 +11,11 @@ public class Task4 {
         System.out.println("Input n :");
         int n = in.nextInt();
        int nf = 1;
-
-       for ( int i = 1;i < n;i++){
+        int i = 1;
+        while(i < n ){
+       //for ( int i = 1;i < n;i++){
            nf = nf*(n - i + 1);
+            i++;
 
        }
        System.out.println(nf);
