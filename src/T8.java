@@ -26,7 +26,7 @@ public class T8 {
             n--;
         }
         Arrays.sort(result);
-        System.out.println("Bet the following combination.It'll make your rich! ");
+        System.out.println("Bet the following combination.It'll make your rich or maybe poor! ");
         for (int r:result)
             System.out.println(r);
 
