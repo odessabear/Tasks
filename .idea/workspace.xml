@@ -30,14 +30,9 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/collections/MapUtils.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/collections/MultiMap.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/collections/SetUtils.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/company/Task3.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/untitled1/com/company/Main.class" afterPath="$PROJECT_DIR$/out/production/untitled1/com/company/Main.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/untitled1/com/company/MyClass.class" afterPath="$PROJECT_DIR$/out/production/untitled1/com/company/MyClass.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Main.java" afterPath="$PROJECT_DIR$/src/com/company/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/MyClass.java" afterPath="$PROJECT_DIR$/src/com/company/MyClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Task4.java" afterPath="$PROJECT_DIR$/src/com/company/Task4.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Task6.java" afterPath="$PROJECT_DIR$/src/com/company/Task6.java" />
     </list>
     <ignored path="untitled1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -678,7 +673,14 @@
       <option name="project" value="LOCAL" />
       <updated>1479915725226</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added changes in my files">
+      <created>1500548290981</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1500548290981</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -724,9 +726,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Added OK output" />
     <MESSAGE value="Added myfiles" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added myfiles" />
+    <MESSAGE value="Added changes in my files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added changes in my files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
